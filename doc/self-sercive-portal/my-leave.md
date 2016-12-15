@@ -6,7 +6,7 @@ View leave entitlement, balance, history
 
 Staff can see their leave and sickness history, leave entitlement and balance as well as send in leave requests or sickness reports from this section. 
 
-![image](../img/my-leave.PNG)
+![image](../img/my-leave.png)
 
 The leave types listed on top of the table are configurable and can be tailored as per your organisation’s policy. The annual entitlement refers to the number of leave days that staff member can take during that particular absence period (usually a calendar year).  
 
