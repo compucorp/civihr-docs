@@ -8,5 +8,5 @@ Add or remove HR Resources
 
 HR administrators can add, edit or remove these commonly accessible documents by navigating to the Manage Documents page and filling in a few details:
 
-![image](../img/my-details.PNG)
+![image](../img/my-details.png)
 
