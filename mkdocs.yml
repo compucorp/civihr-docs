@@ -46,7 +46,7 @@ pages:
 - Recruitment (ATS):
     - 'Recruitment (ATS)': 'recruitment/recruitment.md'
     - 'Vacancies Dashboard': 'recruitment/vacancies-dashboard.md'
-    - 'Vacancies Pipeline': 'recruitment/vacancies-pipeline.md'
+    - 'Vacancies Pipeline': 'recruitment/vacancies-Pipeline.md'
 - Self Service Portal:
     - 'Login screen': 'self-sercive-portal/login-screen.md'
     - 'My Details': 'self-sercive-portal/my-details.md'
