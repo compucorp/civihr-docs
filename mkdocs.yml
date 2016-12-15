@@ -1,0 +1,14 @@
+site_name: 'CiviHR user guide'
+site_url: http://civihr.org
+repo_url: https://github.com/civicrm/civihr
+site_description: 'A guide for users and administrators of CiviHR.'
+site_author: 'The CiviHR community'
+
+
+theme: readthedocs
+
+pages:
+- Home: 'home.md'
+- Introduction:
+    - 'What is CiviHR?': 'introduction/what-is-civihr.md'
+    - 'Components of CiviHR': 'introduction/components-of-civihr.md'
