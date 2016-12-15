@@ -5,7 +5,7 @@ Customise the user interface
 
 You can pick which fields and tabs should appear when you add a new individual in CiviHR. To do this, go to **Administer > Customise Data and Screens > Display Preferences**. Select the appropriate boxes next to **Editing Contacts:**
 
-![image](../img/editing-contact.PNG)
+![image](../img/editing-contact.png)
 
 For example, if your organisation doesn't collect information on Demographics or Instant Messenger, you could uncheck those boxes and streamline the editing screen. Any information contained in fields you choose not to display remains in your database, and you can choose to display it again at any time by re-checking the boxes in this setting.
 
@@ -34,11 +34,15 @@ You can customise (add / rename / disable / remove) some of the dropdown options
 -   Phone types: eg. Phone, Mobile, Work. 
 -   Website types: eg. LinkedIN, Twitter. Input the full URL including http:// or https:// that you see at the beginning. 
 -   Job Contract Pay Scale: If your organisation uses pay scales or grades, you can add them here. When you add a new option, you will need the following information:
-![image](../img/payscale.PNG)
+
+![image](../img/payscale.png)
+
 The information in this table gets listed as options in the job contracts pay scale dropdown as E1 – CXO  – GBP 80000.00 per Year and so on. 
 If you have pay defined in bands (say Manager, GBP 40000 - 50000 pa), use the smaller number as the Amount. If your organisation does not make use of pay scales or grades, you can use the ‘Not Applicable’ option. 
 -   Job Contract Hours/Location: Input the standard full time hours for each of your locations. For example, your head office might have 37.5 hours per week as its standard full time hours, while a branch office might be on 35 hours per week for full time work. 	 
-![image](../img/hour-location.PNG)
+
+![image](../img/hour-location.png)
+
 The information in this table gets listed as options in the job contract standard hours dropdown as Head office - 37.50 per Week and so on. Set the default option. 
 -   Contract Type: eg. Employee - Permanent, Employee - Temporary, Consultant. 
 -   Normal Place of Work (Job Contract) and Location (Job Roles): Normal place of work is the contractual place of work for your staff. 
