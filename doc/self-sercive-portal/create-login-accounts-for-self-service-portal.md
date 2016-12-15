@@ -3,15 +3,15 @@ Create login accounts for Self Service Portal
 
 Staff members who want a CiviHR account can click a link on the login screen and fill in a small form to request access to your CiviHR Self Service Portal. As the HR administrator, you will receive an email notification to create an account for them. Login and go to your Self Service Portal. Click on the cog icon and go to the **Manage Users** page:
 
-![image](../img/manage-user.PNG)
+![image](../img/manage-user.png)
 
 You will see their request on this page in the form of a blocked account. 
 
-![image](../img/blocked-user.PNG)
+![image](../img/blocked-user.png)
 
 Click edit against this account. Set the account as ‘Active’  and pick the appropriate permission level. 
 
-![image](../img/active-user.PNG)
+![image](../img/active-user.png)
 
 -   The civihr_staff permission level allows staff to access the self service portal only, with their own key details, leave, tasks, public HR resources, staff directory and open job vacancies. 
 
