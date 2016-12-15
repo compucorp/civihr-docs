@@ -4,7 +4,7 @@ Prepare data for import
 On completing the abovementioned steps, you will be able to map plan what existing staff data point should get saved into which CiviHR field. 
 
 
-Download ([https://docs.google.com/spreadsheets/d/1Jo_LrtFerb1uS7ioBWbmuXugA5V_r3R58kKorVW9ffU/edit#gid=1808962477) this file containing the full list of importable CiviHR fields and edit it as required. It may be more convenient for you to use it for data collation. At the time of import save staff contact, staff job contract and staff job role data in three separate CSV files.
+Download (https://docs.google.com/spreadsheets/d/1Jo_LrtFerb1uS7ioBWbmuXugA5V_r3R58kKorVW9ffU/edit#gid=1808962477) this file containing the full list of importable CiviHR fields and edit it as required. It may be more convenient for you to use it for data collation. At the time of import save staff contact, staff job contract and staff job role data in three separate CSV files.
 
 
 -   In CiviHR, data is imported in several passes. For instance, you will first import employee contact and demographic data in the first pass, followed by job contract data, and job role data. CiviHR needs to identify accurately the staff profile where data should be added in every successive pass. You can use unique email addresses for each staff for this purpose. The External ID field can also be used to hold unique values such as an employee number. 
