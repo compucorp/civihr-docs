@@ -12,3 +12,10 @@ pages:
 - Introduction:
     - 'What is CiviHR?': 'introduction/what-is-civihr.md'
     - 'Components of CiviHR': 'introduction/components-of-civihr.md'
+- Initial setup and configuration:
+    - 'Initial setup and configuration': 'initial-setup-and-configuration/Initial-setup-and-configuration.md'
+    - 'Localise CiviHR': 'initial-setup-and-configuration/localise-civihr.md'
+    - 'Customise the user interface': 'initial-setup-and-configuration/customise-the-user-interface.md'
+    - 'Add funders and insurance providers': 'initial-setup-and-configuration/add-funders-and-insurance-providers.md'
+    - 'Component-level configuration': 'initial-setup-and-configuration/component-level-configuration.md'
+    - 'Advanced configuration checklist for service providers': 'initial-setup-and-configuration/advanced-configuration-checklist-for-service-providers.md'    
