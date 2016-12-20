@@ -59,7 +59,7 @@ pages:
     - 'Vacancies': 'self-sercive-portal/vacancies.md'
     - 'Reports for HR Administrators': 'self-sercive-portal/reports-for-hr-administrators.md'
     - 'Create login accounts for Self Service Portal': 'self-sercive-portal/create-login-accounts-for-self-service-portal.md'
-- Self Service Portal:
+- Importing staff data:
     - 'Importing staff data': 'importing-staff-data/importing-staff-data.md'
     - 'Get to know CiviHR fields': 'importing-staff-data/get-to-know-civihr-fields.md'
     - 'Review existing data': 'importing-staff-data/review-existing-data.md'
