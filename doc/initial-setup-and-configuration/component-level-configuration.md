@@ -14,9 +14,11 @@ An absence period is typically a calendar or financial year. You can add start a
 You must add an absence period in this screen before your staff are able to apply for leave during that period from their Self Service Portal. Adding a few consecutive absence periods at one go is good practice. 
 
 **3. Add Absence Types**
+
 Add as many absence types as are used by your organisation in **Absences > Absence Type**. Some common absence types such as Time Off in Lieu have been added already for your use. You can add, rename, enable or disable absence types as required. 
 
-**4. Add designated leave approvers**  
+**4. Add designated leave approvers** 
+
 You will need to add one designated leave approver for all your staff members. This leave approver will get alerted when a leave request or sickness report is submitted for their attention. They can then sign into their CiviHR self-service portal and act on the request. Remember that designated leave approvers should be assigned the civihr_manager permission in their self service logins to be able to approve or reject leave requests.
 
 To do this, go to **the staff’s CiviHR profile > Manager** tab for either the manager who will be the leave approver or the staff member. For example, if you are on the Manager tab of Joel’s contact record and you select the relationship type **‘is Leave Approver of’** and type in Anna under **Contact(s)**, this means that now Joel will receive all of Anna’s leave or sickness requests and be able to act on them. 
