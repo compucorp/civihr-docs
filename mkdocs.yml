@@ -57,7 +57,7 @@ pages:
     - 'HR Resources': 'self-sercive-portal/hr-resources.md'
     - 'Staff Directory': 'self-sercive-portal/staff-directory.md'
     - 'Vacancies': 'self-sercive-portal/vacancies.md'
-    - 'Reports for HR Administrators (needs text)': 'self-sercive-portal/'
+    - 'Reports for HR Administrators': 'self-sercive-portal/reports-for-HR-Administrators.md'
     - 'Create login accounts for Self Service Portal': 'self-sercive-portal/create-login-accounts-for-self-service-portal.md'
 - Self Service Portal:
     - 'Importing staff data': 'importing-staff-data/importing-staff-data.md'
