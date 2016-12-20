@@ -19,7 +19,7 @@ pages:
     - 'Add funders and insurance providers': 'initial-setup-and-configuration/add-funders-and-insurance-providers.md'
     - 'Component-level configuration': 'initial-setup-and-configuration/component-level-configuration.md'
     - 'Advanced configuration checklist for service providers': 'initial-setup-and-configuration/advanced-configuration-checklist-for-service-providers.md'    
-- Staff Profile:
+- 1. Staff Profile:
     - 'Staff Profile': 'staff/staff-profile.md'
     - 'Contact Summary': 'staff/contact-summary.md'
     - 'Job Contract': 'staff/job-contract.md'
@@ -36,18 +36,18 @@ pages:
     - 'Qualifications': 'staff/qualifications.md'
     - 'Notes': 'staff/notes.md'
     - 'Change Log': 'staff/change-log.md'
-- Tasks and Reminders:
+- 2. Tasks and Reminders:
     - 'Tasks and Reminders': 'task-and-reminders/tasks-and-reminders.md'
     - 'Schedule and delegate tasks': 'task-and-reminders/schedule-and-delegate-tasks.md'
     - 'Follow up with quick reminders': 'task-and-reminders/follow-up-with-quick-reminders.md'
     - 'Manage joining, exiting, contract renewals': 'task-and-reminders/manage-joining-exiting-contract-renewals.md'
-- Leave and Absences:
+- 3. Leave and Absences:
     - 'Leave and Absences': 'leave-and-absences/leave-and-absences.md'
-- Recruitment (ATS):
+- 4. Recruitment (ATS):
     - 'Recruitment (ATS)': 'recruitment/recruitment.md'
     - 'Vacancies Dashboard': 'recruitment/vacancies-dashboard.md'
     - 'Vacancies Pipeline': 'recruitment/vacancies-pipeline.md'
-- Self Service Portal:
+- 5. Self Service Portal:
     - 'Login screen': 'self-sercive-portal/login-screen.md'
     - 'My Details': 'self-sercive-portal/my-details.md'
     - 'My Tasks': 'self-sercive-portal/my-tasks.md'
