@@ -20,6 +20,7 @@ Check the ‘Exact Match’ and ‘Enabled’ boxes.
 You can add additional rows using the Add row button. 
 Click Save when you are finished entering replacements.
 
+![image](../img/word-replacement.png)
 
 When using this function, be sure to anticipate alternate forms of words and different ways your chosen word or phrase may appear in your CiviHR installation.
 
@@ -34,12 +35,16 @@ You can customise (add / rename / disable / remove) some of the dropdown options
 -   Phone types: eg. Phone, Mobile, Work. 
 -   Website types: eg. LinkedIN, Twitter. Input the full URL including http:// or https:// that you see at the beginning. 
 -   Job Contract Pay Scale: If your organisation uses pay scales or grades, you can add them here. When you add a new option, you will need the following information:
+
 ![image](../img/payscale.png)
+
 The information in this table gets listed as options in the job contracts pay scale dropdown as E1 – CXO  – GBP 80000.00 per Year and so on. 
 If you have pay defined in bands (say Manager, GBP 40000 - 50000 pa), use the smaller number as the Amount. If your organisation does not make use of pay scales or grades, you can use the ‘Not Applicable’ option. 
 -   Job Contract Hours/Location: Input the standard full time hours for each of your locations. For example, your head office might have 37.5 hours per week as its standard full time hours, while a branch office might be on 35 hours per week for full time work. 	 
+
 ![image](../img/hour-location.png)
-The information in this table gets listed as options in the job contract standard hours dropdown as Head office - 37.50 per Week and so on. Set the default option. 
+
+    The information in this table gets listed as options in the job contract standard hours dropdown as Head office - 37.50 per Week and so on. Set the default option. 
 -   Contract Type: eg. Employee - Permanent, Employee - Temporary, Consultant. 
 -   Normal Place of Work (Job Contract) and Location (Job Roles): Normal place of work is the contractual place of work for your staff. 
 -   The same list is also used for Location in Job Role screen. The staff’s current job role location could be different than their contractual location. For example, they might be spending six months at a different office in order to complete a project. 
@@ -68,6 +73,10 @@ There are more dropdown options that can be customised (add/rename/disable/remov
 
 Go to **Administer > Communications > Organization address and contact info** and enter organization name and address. Enter a valid email address that should be used by default to send CiviHR-generated emails such as task notifications.
 
+![image](../img/organization-contact.png)
+
 ### Create custom data fields
 
 You can collect information beyond that which CiviHR allows by default by adding custom fields to hold the data you want to save. Contact your service provider to plan this.
+
+![image](../img/custom_fields.gif)

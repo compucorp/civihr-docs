@@ -10,6 +10,8 @@ Like all software there will be times when you use CiviHR and features don't wor
 -   Browser and browser version
 -   Version of PHP and MySQL
 
+![image](../img/image06.png)
+
 The amount of time taken for the bug to be fixed depends on the severity and complexity of the bug. 
 
 **Reference**: https://docs.civicrm.org/user/en/stable/
