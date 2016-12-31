@@ -8,3 +8,5 @@ You must add health insurance and life insurance providers, and funding organisa
 -   To add Life Insurance Provider:  Go to Contacts > New Organization > New Life Insurance Provider.
 
 To add a new individual donor, Go to **Contacts > New Individual**. Although there are many fields available on this page, you can create a new record with just the first and last name OR an email address. 
+
+![image](../img/image05.png)
