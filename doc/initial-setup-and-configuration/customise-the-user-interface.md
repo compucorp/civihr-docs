@@ -13,12 +13,12 @@ For example, if your organisation doesn't collect information on Demographics or
 
 CiviHR has a Word Replacement setting that lets you replace existing text with other text. For example, if your organisation prefers to use the term "Employee ID," instead of the term “External ID” that appears in CiviHR, you can define a word replacement and have it automatically altered everywhere on CiviHR.
 
-Go to **Administer > Customise Data and Screens > Word Replacements**.
-Enter the exact word or text you want to replace under the column titled 'Original'. Please note this is case sensitive and requires the same exact spelling of the word or text which you see in CiviHR.
-On the Replacement column, add the desired phrase that you would like to replace the original word or text with.
-Check the ‘Exact Match’ and ‘Enabled’ boxes. 
-You can add additional rows using the Add row button. 
-Click Save when you are finished entering replacements.
+-  Go to **Administer > Customise Data and Screens > Word Replacements**.
+-  Enter the exact word or text you want to replace under the column titled 'Original'. Please note this is case sensitive and requires the same exact spelling of the word or text which you see in CiviHR.
+-  On the Replacement column, add the desired phrase that you would like to replace the original word or text with.
+-  Check the ‘Exact Match’ and ‘Enabled’ boxes. 
+-  You can add additional rows using the Add row button. 
+-  Click Save when you are finished entering replacements.
 
 ![image](../img/word-replacement.png)
 
@@ -39,16 +39,20 @@ You can customise (add / rename / disable / remove) some of the dropdown options
 ![image](../img/payscale.png)
 
 The information in this table gets listed as options in the job contracts pay scale dropdown as E1 – CXO  – GBP 80000.00 per Year and so on. 
+
 If you have pay defined in bands (say Manager, GBP 40000 - 50000 pa), use the smaller number as the Amount. If your organisation does not make use of pay scales or grades, you can use the ‘Not Applicable’ option. 
+
+
 -   Job Contract Hours/Location: Input the standard full time hours for each of your locations. For example, your head office might have 37.5 hours per week as its standard full time hours, while a branch office might be on 35 hours per week for full time work. 	 
 
 ![image](../img/hour-location.png)
 
-    The information in this table gets listed as options in the job contract standard hours dropdown as Head office - 37.50 per Week and so on. Set the default option. 
+The information in this table gets listed as options in the job contract standard hours dropdown as Head office - 37.50 per Week and so on. Set the default option. 
+
+
 -   Contract Type: eg. Employee - Permanent, Employee - Temporary, Consultant. 
--   Normal Place of Work (Job Contract) and Location (Job Roles): Normal place of work is the contractual place of work for your staff. 
--   The same list is also used for Location in Job Role screen. The staff’s current job role location could be different than their contractual location. For example, they might be spending six months at a different office in order to complete a project. 
--   You can use Locations to specify which staff records can be accessed by which fellow administrators through the **Manage Roles** and Teams feature. 
+-   Normal Place of Work (Job Contract) and Location (Job Roles): Normal place of work is the contractual place of work for your staff. The same list is also used for Location in Job Role screen. The staff’s current job role location could be different than their contractual location. For example, they might be spending six months at a different office in order to complete a project. You can use Locations to specify which staff records can be accessed by which fellow administrators through the **Manage Roles** and Teams feature. 
+
 -   Pay Cycle: This is the interval at which staff gets paid. eg. Weekly, Monthly.
 -   Benefits: This list contains names of all monetary benefits that staff may get as part of their pay. Benefits are added as annual amounts, and CiviHR calculates the benefit amount per cycle.  eg. Cycle allowance, Dental 
 -   Deductions: This list contains names of all monetary deductions made from the pay of your staff. are added as annual amounts, and CiviHR calculates the benefit amount per cycle. eg. Child Maintenance, Disciplinary, Loan

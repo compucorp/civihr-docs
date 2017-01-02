@@ -36,6 +36,8 @@ To do this, go to **the staff’s CiviHR profile > Manager** tab for either the 
 You can add your organization’s complete task list for routine processes like joining and exiting. These task lists are called **Assignments** in CiviHR.
 
 List the tasks that you must complete for joiners and exiting staff, along a timeline. For example, a joining task list would run as follows:
+
+
 -   Day 1: Issue appointment letter 
 -   Day 1: Collect identification documents
 -   Day 2: Induction by supervisor
