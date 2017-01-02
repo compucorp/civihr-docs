@@ -20,7 +20,7 @@ If you have data that cannot be saved in any pre-built CiviHR field, you may nee
 
 On completing the abovementioned steps, you will be able to map plan what existing staff data point should get saved into which CiviHR field. 
 
-Download (https://docs.google.com/spreadsheets/d/1Jo_LrtFerb1uS7ioBWbmuXugA5V_r3R58kKorVW9ffU/edit?usp=sharing) this file containing the full list of importable CiviHR fields and edit it as required. It may be more convenient for you to use it for data collation. At the time of import save staff contact, staff job contract and staff job role data in three separate CSV files.
+<a href="https://docs.google.com/spreadsheets/d/1Jo_LrtFerb1uS7ioBWbmuXugA5V_r3R58kKorVW9ffU/edit?usp=sharing" target="_blank"> Download this file</a> containing the full list of importable CiviHR fields and edit it as required. It may be more convenient for you to use it for data collation. At the time of import save staff contact, staff job contract and staff job role data in three separate CSV files.
 
 -   In CiviHR, data is imported in several passes as described next. For instance, you will first import employee contact and demographic data in the first pass, followed by job contract data, and job role data. You need to help CiviHR to identify the staff members in whose profiles the additional data should be added. You can use unique email addresses or employee ID numbers for each staff member for this purpose. 
 -   Do not delete any columns marked ‘mandatory’. The import will not go through unless these columns contain valid data for each staff member. You can delete any non-mandatory columns that you do not want to use. 
