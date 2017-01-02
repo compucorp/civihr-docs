@@ -1,4 +1,4 @@
-site_name: 'CiviHR user guide'
+site_name: 'CiviHR User Guide'
 site_url: http://civihr.org
 repo_url: https://github.com/compucorp/civihr-docs.git
 site_description: 'A guide for users and administrators of CiviHR.'
@@ -9,8 +9,7 @@ theme: readthedocs
 
 pages:
 - Home: 'index.md'
-- Introduction:
-    - 'What is CiviHR?': 'introduction/what-is-civihr.md'
+- Components of CiviHR:
     - 'Components of CiviHR': 'introduction/components-of-civihr.md'
 - Initial setup and configuration:
     - 'Initial setup and configuration': 'initial-setup-and-configuration/Initial-setup-and-configuration.md'
@@ -59,12 +58,9 @@ pages:
     - 'Vacancies': 'self-sercive-portal/vacancies.md'
     - 'Create login accounts for Self Service Portal': 'self-sercive-portal/create-login-accounts-for-self-service-portal.md'
 - Importing staff data:
-    - 'Importing staff data': 'importing-staff-data/importing-staff-data.md'
-    - 'Get to know CiviHR fields': 'importing-staff-data/get-to-know-civihr-fields.md'
-    - 'Review existing data': 'importing-staff-data/review-existing-data.md'
-    - 'Prepare data for import': 'importing-staff-data/prepare-data-for-import.md'
-    - 'Run a test import': 'importing-staff-data/run-a-test-import.md'
-    - 'Run the full import': 'importing-staff-data/run-the-full-import.md'
-    
+    - 'Before importing data': 'importing-staff-data/before-importing-data.md'
+    - 'Import personal and bank details': 'importing-staff-data/import-personal-and-bank-details.md'
+    - 'Import job contract': 'importing-staff-data/import-job-contract.md'
+    - 'Import job role': 'importing-staff-data/import-job-role.md'    
 - Reporting bugs:
-    - 'Run the full import': 'reporting-bugs/reporting-bugs.md'  
+    - 'Reporting Bugs': 'reporting-bugs/reporting-bugs.md'  
