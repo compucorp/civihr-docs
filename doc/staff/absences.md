@@ -13,7 +13,7 @@ You can add a sickness report or leave record at any point in time on behalf of 
 View absence history
 ---------------
 
-You can look at the leave and sickness history for the staff member by clicking on the List or Calendar tabs. Records can be filtered by Absence Type or Period. The Statistics ta shows you the calculations behind the number of days of leave taken and remaining. 
+You can look at the leave and sickness history for the staff member by clicking on the List or Calendar tabs. Records can be filtered by Absence Type or Period. The Statistics tab shows you the calculations behind the number of days of leave taken and remaining. 
 
 ![image](../img/image19.png)
 
