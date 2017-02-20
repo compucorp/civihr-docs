@@ -1,42 +1,32 @@
 Components of CiviHR
 ==========
 
-Components give you more tools to interact with your contacts. You can
-use as many or as few of these as you need and then can be turned on and
-off as necessary. Turning off, or disabling modules that you aren't
-using removes them from the user interface, e.g. from the menu system,
-the advanced search page and so on. This simplifies the appearance of
-CiviCRM for your users. You can also set permissions so that only
-certain users can see certain components, for example so that only
-fundraisers can see financial information. 
-
-Turning off a component will not remove any data from CiviCRM - just
-hide it. When you turn it on again, the data will re-appear.
-
-Each component is explained in detail in its own section so only a brief
-description is given here.
-
 **1. Staff Profile**  
 ---------------
 
-Store all information about your staff member including their contact details, job contracts (with effective dates for new revisions and changes), job roles, medical information, eligibility to work & other essential records. CiviHR is flexible, allowing you to add and remove fields as required. All changes are tracked and history recorded for easy future reference.
+Store all relevant information about your staff including their contact details, job contracts (with effective dates for new revisions and changes), job roles, medical information, eligibility to work and other essential records. CiviHR is flexible, allowing you to add and remove fields as required. All changes are tracked and recorded for easy future reference.
 
-**2. Tasks and Reminders**
+**2.Reports and Dashboards**
+---------------
+
+Create interactive pivot table reports and charts within seconds with our drag and drop tool, or by clicking on your saved reports. HR can create reports on Headcount, FTE, Joining and Existing staff, and Absence. These reports can then be shared with other members of the team.
+
+**3. Tasks and Reminders**
 -------------
 
-CiviHR helps you manage onboarding and exiting staff members using our tasks and assignments module. Assign internal tasks and staff can review it's due date, notes, and attachments on their portal. You can also send automated emails and schedule tasks for the new joiners to receive when they start. 
+CiviHR helps you manage onboarding and exiting staff members using our Tasks and Assignments module. Once you have assigned internal tasks, staff can review due dates, notes and attachments on their Self Service Portal Portal (SSP). You can also send automated emails and schedule tasks for the new joiners to receive when they start.
 
-**3. Leave and Absence**
+**4. Leave and Absence**
 -------------
 
-The comprehensive leave and absence module helps you to calculate and pro rata leave entitlements for flexible workers, full time and part time staff. Staff request leave from their Self Service Portal, and can attach any documents or add comments for their manager. Managers can view calendars and reports of all staff they are leave approvers for.   
+The comprehensive Leave and Absence module helps you to calculate and pro rata leave entitlements for flexible workers, full time and part time staff. Staff request leave from their Self Service Portal, and can attach any documents or add comments for their manager. Managers can view calendars and reports of all staff whose leave they approve.
 
 **4. Recruitment (ATS)**
 -------------
 
-The comprehensive leave and absence module helps you to calculate and pro rata leave entitlements for flexible workers, full time and part time staff. Staff request leave from their Self Service Portal, and can attach any documents or add comments for their manager. Managers can view calendars and reports of all staff they are leave approvers for.   
+HR can create new vacancies or use a saved template to post jobs both internally and externally. They can also assign activities, schedule interviews, send emails and record notes on applicants. 
 
 **5. Self Service Portal**
 -------------
 
-The comprehensive leave and absence module helps you to calculate and pro rata leave entitlements for flexible workers, full time and part time staff. Staff request leave from their Self Service Portal, and can attach any documents or add comments for their manager. Managers can view calendars and reports of all staff they are leave approvers for.   
+Each staff has a login to their own Self Service page, where they can apply for leave, edit their contact information, check internal job vacancies and view the organisation's directory. When HR uploads a document or assigns a task to a staff member, this will appear on their portal and can be accessed anytime, from the office or remotely.
