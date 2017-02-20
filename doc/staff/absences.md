@@ -29,6 +29,6 @@ Annual entitlement contains the number of days of leave of each type that the st
 Add or change TOIL balance
 ---------------
 
-You can add Time off in lieu balance on behalf of a staff member by typing .directly into the TOIL (credit) field. 
+You can add Time off in lieu balance on behalf of a staff member by typing directly into the TOIL (credit) field. 
 
 ![image](../img/TOIL-balance.gif)
