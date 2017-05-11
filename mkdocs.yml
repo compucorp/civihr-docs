@@ -35,11 +35,11 @@ pages:
     - 'Qualifications': 'staff/qualifications.md'
     - 'Notes': 'staff/notes.md'
     - 'Change Log': 'staff/change-log.md'
-- 2. Tasks and Reminders:
-    - 'Tasks and Reminders': 'task-and-reminders/tasks-and-reminders.md'
-    - 'Schedule and delegate tasks': 'task-and-reminders/schedule-and-delegate-tasks.md'
-    - 'Follow up with quick reminders': 'task-and-reminders/follow-up-with-quick-reminders.md'
-    - 'Manage joining, exiting, contract renewals': 'task-and-reminders/manage-joining-exiting-contract-renewals.md'
+- 2. Tasks and Assignments:
+    - 'Tasks and Reminders': 'task-and-assignments/tasks-and-assignments.md'
+    - 'Schedule and delegate tasks': 'task-and-assignments/schedule-and-delegate-tasks.md'
+    - 'Follow up with quick reminders': 'task-and-assignments/follow-up-with-quick-reminders.md'
+    - 'Manage joining, exiting, contract renewals': 'task-and-assignments/manage-joining-exiting-contract-renewals.md'
 - 3. Leave and Absences:
     - 'Leave and Absences': 'leave-and-absences/leave-and-absences.md'
 - 4. Recruitment (ATS):
