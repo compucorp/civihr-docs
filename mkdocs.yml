@@ -63,7 +63,7 @@ pages:
     - 'Import personal and bank details': 'importing-staff-data/import-personal-and-bank-details.md'
     - 'Import job contract': 'importing-staff-data/import-job-contract.md'
     - 'Import job role': 'importing-staff-data/import-job-role.md' 
-- Manage Teams
+- Manage Teams:
     - 'Manage Teams': 'manage-teams/manage-teams.md'
 - Reporting bugs:
     - 'Reporting Bugs': 'reporting-bugs/reporting-bugs.md'  
