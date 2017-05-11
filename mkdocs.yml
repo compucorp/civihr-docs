@@ -35,8 +35,8 @@ pages:
     - 'Qualifications': 'staff/qualifications.md'
     - 'Notes': 'staff/notes.md'
     - 'Change Log': 'staff/change-log.md'
-- 2. Tasks and Reminders:
-    - 'Tasks and Reminders': 'task-and-reminders/tasks-and-reminders.md'
+- 2. Tasks and Assignments:
+    - 'Tasks and Reminders': 'task-and-reminders/tasks-and-assignments.md'
     - 'Schedule and delegate tasks': 'task-and-reminders/schedule-and-delegate-tasks.md'
     - 'Follow up with quick reminders': 'task-and-reminders/follow-up-with-quick-reminders.md'
     - 'Manage joining, exiting, contract renewals': 'task-and-reminders/manage-joining-exiting-contract-renewals.md'
@@ -48,6 +48,7 @@ pages:
     - 'Vacancies Pipeline': 'recruitment/vacancies-pipeline.md'
 - 5. Self Service Portal:
     - 'Login screen': 'self-sercive-portal/login-screen.md'
+    - 'Login screen': 'self-sercive-portal/reports-for-administrators.md'
     - 'My Details': 'self-sercive-portal/my-details.md'
     - 'My Tasks': 'self-sercive-portal/my-tasks.md'
     - 'My Leave': 'self-sercive-portal/my-leave.md'
@@ -61,6 +62,8 @@ pages:
     - 'Before importing data': 'importing-staff-data/before-importing-data.md'
     - 'Import personal and bank details': 'importing-staff-data/import-personal-and-bank-details.md'
     - 'Import job contract': 'importing-staff-data/import-job-contract.md'
-    - 'Import job role': 'importing-staff-data/import-job-role.md'    
+    - 'Import job role': 'importing-staff-data/import-job-role.md' 
+- Manage Teams
+    - 'Manage Teams': 'manage-teams/manage-teams.md'
 - Reporting bugs:
     - 'Reporting Bugs': 'reporting-bugs/reporting-bugs.md'  
