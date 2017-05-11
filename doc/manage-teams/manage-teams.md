@@ -1,4 +1,3 @@
-
 Set up local/regional HR managers
 ==========
 
@@ -39,6 +38,6 @@ Step 4: Make sure that the Location/Region information for all staff is accurate
 -   Go to the CiviHR profile of any staff with an active job contract, and click on the Job Roles tab. 
 -   Add/edit a current job role, and select the correct location and/or region. Save this information. 
 
-![image](../img/manage-teams-3.png)
+![image](../img/manage-teams-4.png)
 
 Note: In CiviHR 1.6, the restrictions to staff data apply to the CiviHR staff record. Local/regional HR manager permissions will still be able to see information about users outside of their locations and regions in the Tasks and Assignments, and Reports modules. The access restrictions will be extended to these modules in a later release.
