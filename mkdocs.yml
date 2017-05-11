@@ -48,7 +48,7 @@ pages:
     - 'Vacancies Pipeline': 'recruitment/vacancies-pipeline.md'
 - 5. Self Service Portal:
     - 'Login screen': 'self-sercive-portal/login-screen.md'
-    - 'Login screen': 'self-sercive-portal/reports-for-administrators.md'
+    - 'Report for Administrators': 'self-sercive-portal/reports-for-administrators.md'
     - 'My Details': 'self-sercive-portal/my-details.md'
     - 'My Tasks': 'self-sercive-portal/my-tasks.md'
     - 'My Leave': 'self-sercive-portal/my-leave.md'
@@ -63,7 +63,7 @@ pages:
     - 'Import personal and bank details': 'importing-staff-data/import-personal-and-bank-details.md'
     - 'Import job contract': 'importing-staff-data/import-job-contract.md'
     - 'Import job role': 'importing-staff-data/import-job-role.md' 
-- Manage Teams
+- Manage Teams:
     - 'Manage Teams': 'manage-teams/manage-teams.md'
 - Reporting bugs:
     - 'Reporting Bugs': 'reporting-bugs/reporting-bugs.md'  
