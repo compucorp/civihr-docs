@@ -36,7 +36,7 @@ pages:
     - 'Notes': 'staff/notes.md'
     - 'Change Log': 'staff/change-log.md'
 - 2. Tasks and Assignments:
-    - 'Tasks and Reminders': 'task-and-reminders/tasks-and-reminders.md'
+    - 'Tasks and Reminders': 'task-and-reminders/tasks-and-assignments.md'
     - 'Schedule and delegate tasks': 'task-and-reminders/schedule-and-delegate-tasks.md'
     - 'Follow up with quick reminders': 'task-and-reminders/follow-up-with-quick-reminders.md'
     - 'Manage joining, exiting, contract renewals': 'task-and-reminders/manage-joining-exiting-contract-renewals.md'
@@ -62,6 +62,8 @@ pages:
     - 'Before importing data': 'importing-staff-data/before-importing-data.md'
     - 'Import personal and bank details': 'importing-staff-data/import-personal-and-bank-details.md'
     - 'Import job contract': 'importing-staff-data/import-job-contract.md'
-    - 'Import job role': 'importing-staff-data/import-job-role.md'    
+    - 'Import job role': 'importing-staff-data/import-job-role.md' 
+- Manage Teams
+    - 'Manage Teams': 'manage-teams/manage-teams.md'
 - Reporting bugs:
     - 'Reporting Bugs': 'reporting-bugs/reporting-bugs.md'  
