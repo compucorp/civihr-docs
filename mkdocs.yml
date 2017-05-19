@@ -10,11 +10,7 @@ markdown_extensions:
   - def_list
   - codehilite(guess_lang=false)
   - toc(permalink=true)
-  - pymdownx.inlinehilite
-  - pymdownx.tilde
-  - pymdownx.betterem
-  - pymdownx.mark
-
+  
 pages:
 - Home: 'index.md'
 - Components of CiviHR:
