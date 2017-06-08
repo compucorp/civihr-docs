@@ -8,7 +8,6 @@ site_url: http://civihr.org
 repo_name: CiviHR Documentation
 repo_url: https://github.com/compucorp/civihr-docs.git
 
-<<<<<<< HEAD
 # Copyright
 copyright: 'Copyright &copy; 2017 CiviHR'
 
@@ -44,11 +43,6 @@ markdown_extensions:
   - pymdownx.tilde
 
 # Page tree
-=======
-theme: readthedocs
-
-  
->>>>>>> 1c1543d9f50e2aaea0a69b030f489b2f479764e9
 pages:
 - Home: 'index.md'
 - Components of CiviHR:
