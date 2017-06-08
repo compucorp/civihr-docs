@@ -1,12 +1,48 @@
-site_name: 'CiviHR User Guide'
+# Project information
+site_name: CiviHR User Guide
+site_description: A guide for users and administrators of CiviHR.
+site_author: The CiviHR community
 site_url: http://civihr.org
+
+# Repository
+repo_name: CiviHR Documentation
 repo_url: https://github.com/compucorp/civihr-docs.git
-site_description: 'A guide for users and administrators of CiviHR.'
-site_author: 'The CiviHR community'
 
+# Copyright
+copyright: 'Copyright &copy; 2017 CiviHR'
 
-theme: readthedocs
+# Theme directory
+theme_dir: material
 
+# Options
+extra:
+  feature:
+    tabs: false
+  palette:
+    primary: indigo
+    accent: green
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite(guess_lang=false)
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc(permalink=true)
+  - pymdownx.arithmatex
+  - pymdownx.betterem(smart_enable=all)
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist(custom_checkbox=true)
+  - pymdownx.tilde
+
+# Page tree
 pages:
 - Home: 'index.md'
 - Components of CiviHR:
@@ -35,8 +71,8 @@ pages:
     - 'Qualifications': 'staff/qualifications.md'
     - 'Notes': 'staff/notes.md'
     - 'Change Log': 'staff/change-log.md'
-- 2. Tasks and Reminders:
-    - 'Tasks and Reminders': 'task-and-reminders/tasks-and-reminders.md'
+- 2. Tasks and Assignments:
+    - 'Tasks and Assignments': 'task-and-reminders/tasks-and-assignments.md'
     - 'Schedule and delegate tasks': 'task-and-reminders/schedule-and-delegate-tasks.md'
     - 'Follow up with quick reminders': 'task-and-reminders/follow-up-with-quick-reminders.md'
     - 'Manage joining, exiting, contract renewals': 'task-and-reminders/manage-joining-exiting-contract-renewals.md'
@@ -57,10 +93,13 @@ pages:
     - 'Staff Directory': 'self-sercive-portal/staff-directory.md'
     - 'Vacancies': 'self-sercive-portal/vacancies.md'
     - 'Create login accounts for Self Service Portal': 'self-sercive-portal/create-login-accounts-for-self-service-portal.md'
+    - 'Report for Administrators': 'self-sercive-portal/reports-for-administrators.md'
 - Importing staff data:
     - 'Before importing data': 'importing-staff-data/before-importing-data.md'
     - 'Import personal and bank details': 'importing-staff-data/import-personal-and-bank-details.md'
     - 'Import job contract': 'importing-staff-data/import-job-contract.md'
-    - 'Import job role': 'importing-staff-data/import-job-role.md'    
+    - 'Import job role': 'importing-staff-data/import-job-role.md' 
+- Manage Teams:
+    - 'Set up Local/Regional HR Managers': 'manage-teams/manage-teams.md'
 - Reporting bugs:
-    - 'Reporting Bugs': 'reporting-bugs/reporting-bugs.md'  
+    - 'Reporting Bugs': 'reporting-bugs/reporting-bugs.md' 
