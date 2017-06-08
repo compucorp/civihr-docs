@@ -1,4 +1,0 @@
-Request or use Time Off in Lieu (TOIL)
-==========
-
-If your organisation’s policy allows staff to accrue Time Off in Lieu days for working overtime, then they can request leave credit from their self-service portal. They can upload files and add notes to support their request. Their designated leave approver will receive an email prompt to act on the request. When the leave approver makes a decision, the staff member who applied for TOIL credit will be notified by email. The TOIL credit status will be updated in their self-service portal as well. Once a TOIL credit request is approved, the TOIL balance should increase. This can then be used to book time off.
