@@ -1,12 +1,54 @@
-site_name: 'CiviHR User Guide'
+# Project information
+site_name: CiviHR User Guide
+site_description: A guide for users and administrators of CiviHR.
+site_author: The CiviHR community
 site_url: http://civihr.org
-repo_url: https://github.com/compucorp/civihr-docs.git
-site_description: 'A guide for users and administrators of CiviHR.'
-site_author: 'The CiviHR community'
 
+# Repository
+repo_name: CiviHR Documentation
+repo_url: https://github.com/compucorp/civihr-docs.git
+
+<<<<<<< HEAD
+# Copyright
+copyright: 'Copyright &copy; 2017 CiviHR'
+
+# Theme directory
+theme_dir: material
+
+# Options
+extra:
+  feature:
+    tabs: false
+  palette:
+    primary: indigo
+    accent: green
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite(guess_lang=false)
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc(permalink=true)
+  - pymdownx.arithmatex
+  - pymdownx.betterem(smart_enable=all)
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist(custom_checkbox=true)
+  - pymdownx.tilde
+
+# Page tree
+=======
 theme: readthedocs
 
   
+>>>>>>> 1c1543d9f50e2aaea0a69b030f489b2f479764e9
 pages:
 - Home: 'index.md'
 - Components of CiviHR:
@@ -66,4 +108,4 @@ pages:
 - Manage Teams:
     - 'Set up Local/Regional HR Managers': 'manage-teams/manage-teams.md'
 - Reporting bugs:
-    - 'Reporting Bugs': 'reporting-bugs/reporting-bugs.md'  
+    - 'Reporting Bugs': 'reporting-bugs/reporting-bugs.md' 
