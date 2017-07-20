@@ -45,7 +45,7 @@ markdown_extensions:
 # Page tree
 pages:
 - Home: 'index.md'
-- Staff and Managers Quickstart Guide: '/staff-managers-quickstart.md'
+- Staff and Managers Quickstart Guide: 'initial-setup-and-configuration/staff-managers-quickstart.md'
 - Components of CiviHR:
     - 'Components of CiviHR': 'introduction/components-of-civihr.md'
 - Initial setup and configuration:

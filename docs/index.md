@@ -7,4 +7,4 @@ HR is difficult, especially for non-profit organisations with limited budgets an
 CiviHR is open source, which means you can download it for free. There is also a hosted version that you can sign up to online and simply use over the web. At the moment this is also free for our early adopters. The next section lists the key components of CiviHR 1.6.
 
 
-This guide is meant for users and administrators of CiviHR. It covers topics that they need to know so that they can work with CiviHR on a day to day basis. Staff or managers can begin with our [Quickstart guide](/staff-managers-quickstart.md).
+This guide is meant for users and administrators of CiviHR. It covers topics that they need to know so that they can work with CiviHR on a day to day basis. Staff or managers can begin with our [Quickstart guide](/initial-setup-and-configuration/staff-managers-quickstart.md).
