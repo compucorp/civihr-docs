@@ -4,7 +4,7 @@ Welcome to the CiviHR user guide. Our comprehensive guide is written to cover al
 
 As staff or manager roles you don’t need to worry about most of the guide, so we’ve handpicked all the relevant pages for you. The following pages will help you familiarise yourself with the Self Service Portal, and take the difficulty out of HR.
 
-### [1. The login screen](/self-service-portal/create-login-accounts-for-self-service-portal.md)
+### [1. The login screen](/self-service-portal/login-screen.md)
 Logging in or requesting a new password.
 
 ### [2. My Details](/self-service-portal/my-details.md)
