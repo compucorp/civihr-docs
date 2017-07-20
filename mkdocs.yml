@@ -45,6 +45,7 @@ markdown_extensions:
 # Page tree
 pages:
 - Home: 'index.md'
+- Staff and Managers Quickstart Guide: 'initial-setup-and-configuration/staff-managers-quickstart.md'
 - Components of CiviHR:
     - 'Components of CiviHR': 'introduction/components-of-civihr.md'
 - Initial setup and configuration:
@@ -53,7 +54,7 @@ pages:
     - 'Customise the user interface': 'initial-setup-and-configuration/customise-the-user-interface.md'
     - 'Add funders and insurance providers': 'initial-setup-and-configuration/add-funders-and-insurance-providers.md'
     - 'Component-level configuration': 'initial-setup-and-configuration/component-level-configuration.md'
-    - 'Advanced configuration checklist for service providers': 'initial-setup-and-configuration/advanced-configuration-checklist-for-service-providers.md'    
+    - 'Advanced configuration checklist for service providers': 'initial-setup-and-configuration/advanced-configuration-checklist-for-service-providers.md'
 - 1. Staff Profile:
     - 'Staff Profile': 'staff/staff-profile.md'
     - 'Contact Summary': 'staff/contact-summary.md'
@@ -88,7 +89,7 @@ pages:
     - 'My Tasks': 'self-service-portal/my-tasks.md'
     - 'My Leave': 'self-service-portal/my-leave.md'
     - 'My Sickness': 'self-service-portal/my-sickness.md'
-    - 'Manager Leave Approval': 'self-service-portal/manager-leave-approval.md'    
+    - 'Manager Leave Approval': 'self-service-portal/manager-leave-approval.md'
     - 'HR Resources': 'self-service-portal/hr-resources.md'
     - 'Staff Directory': 'self-service-portal/staff-directory.md'
     - 'Vacancies': 'self-service-portal/vacancies.md'
@@ -98,8 +99,8 @@ pages:
     - 'Before importing data': 'importing-staff-data/before-importing-data.md'
     - 'Import personal and bank details': 'importing-staff-data/import-personal-and-bank-details.md'
     - 'Import job contract': 'importing-staff-data/import-job-contract.md'
-    - 'Import job role': 'importing-staff-data/import-job-role.md' 
+    - 'Import job role': 'importing-staff-data/import-job-role.md'
 - Manage Teams:
     - 'Set up Local/Regional HR Managers': 'manage-teams/manage-teams.md'
 - Reporting bugs:
-    - 'Reporting Bugs': 'reporting-bugs/reporting-bugs.md' 
+    - 'Reporting Bugs': 'reporting-bugs/reporting-bugs.md'
