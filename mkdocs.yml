@@ -60,7 +60,7 @@ pages:
     - 'Job Contract': 'staff/job-contract.md'
     - 'Job Roles': 'staff/job-roles.md'
     - 'Personal Details': 'staff/personal-details.md'
-    - 'Absences': 'staff/absences.md'
+    - 'Absence': 'staff/absence.md'
     - 'Tasks': 'staff/tasks.md'
     - 'Identification': 'staff/identification.md'
     - 'Emergency Contacts': 'staff/emergency-contacts.md'
