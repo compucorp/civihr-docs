@@ -1,0 +1,8 @@
+How HR Admin checks staff leave balance
+==========
+
+The Leave Balance tab displays all staff leave entitlement, amount used, amount requested and the remaining balance. Results can be filtered by leave type and absence period.
+
+### CiviHR Admin: Checking Staff Leave Balance
+
+<p style="border: 2px solid #ebebeb; min-width: 100%; border-bottom: 0 none; height: 501px;"><iframe style="border: 0 none; min-width: 100%" src="//www.iorad.com/player/88680/CiviHR-Admin--Checking-Leave-Balance?src=iframe" width="100%" height="500px" allowfullscreen="true"></iframe></p><p style="display: none;"><p style="display: none;">For a quick review of leave balances, go to the &lt;b&gt;CiviHR admin menu.&lt;/b&gt;</p><p style="display: none;">Click &lt;span class=&quot;&quot;&gt;&lt;i&gt;&lt;b&gt;Leave and Absences.&lt;/b&gt;&lt;/i&gt;&lt;/span&gt;</p><p style="display: none;">Click &lt;span class=&quot;&quot;&gt;&lt;i&gt;&lt;b&gt;Leave Balance.&lt;/b&gt;&lt;/i&gt;&lt;/span&gt;</p><p style="display: none;">This displays all leave balances across the organisation. &lt;br&gt;&lt;br&gt;Filter the results by leave type.&amp;nbsp;</p><p style="display: none;">In this example, we want to view all the sick leave taken across the organisation. Select &lt;span class=&quot;&quot;&gt;&lt;i&gt;&lt;b&gt;Sick.&lt;/b&gt;&lt;/i&gt;&lt;/span&gt;</p><p style="display: none;">This shows which members of staff have requested sick leave, and the amount of times they have done so.&amp;nbsp;</p></p>
