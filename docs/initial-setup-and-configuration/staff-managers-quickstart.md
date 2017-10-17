@@ -19,11 +19,8 @@ Review your remaining entitlement and apply for your leave.
 ### [5. Leave approval](/self-service-portal/manager-leave-approval.md)
 As a manager, review and approve leave requests (or don’t…).
 
-### [6. My sickness](/self-service-portal/my-sickness.md)
-Record your sick days in a few clicks.
-
-### [7. Staff Directory](/self-service-portal/staff-directory.md)
+### [6. Staff Directory](/self-service-portal/staff-directory.md)
 Find your colleague’s details.
 
-### [8. Vacancies](/self-service-portal/vacancies.md)
+### [7. Vacancies](/self-service-portal/vacancies.md)
 Apply for internal job vacancies.
