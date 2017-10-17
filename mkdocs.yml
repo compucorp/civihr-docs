@@ -53,7 +53,6 @@ pages:
     - 'Localise CiviHR': 'initial-setup-and-configuration/localise-civihr.md'
     - 'Customise the user interface': 'initial-setup-and-configuration/customise-the-user-interface.md'
     - 'Add funders and insurance providers': 'initial-setup-and-configuration/add-funders-and-insurance-providers.md'
-    - 'Component-level configuration': 'initial-setup-and-configuration/component-level-configuration.md'
     - 'Advanced configuration checklist for service providers': 'initial-setup-and-configuration/advanced-configuration-checklist-for-service-providers.md'
 - 1. Staff Profile:
     - 'Staff Profile': 'staff/staff-profile.md'
@@ -77,8 +76,15 @@ pages:
     - 'Schedule and delegate tasks': 'task-and-reminders/schedule-and-delegate-tasks.md'
     - 'Follow up with quick reminders': 'task-and-reminders/follow-up-with-quick-reminders.md'
     - 'Manage joining, exiting, contract renewals': 'task-and-reminders/manage-joining-exiting-contract-renewals.md'
-- 3. Leave and Absences:
-    - 'Leave and Absences': 'leave-and-absences/leave-and-absences.md'
+- 3. Leave Management:
+    - 'Leave Management': 'leave-management/leave-management.md'
+    - 'How staff applies for leave': 'leave-management/how-staff-apply-for-leave.md'
+    - 'How managers review leave requests': 'leave-management/how-managers-review-leave-requests.md'
+    - 'How managers review sick absences': 'leave-management/how-managers-review-sick-absences.md'
+    - 'How HR Admin records or reviews leave requests': 'leave-management/how-hr-admin-records-or-reviews-leave-requests.md'   
+    - 'How HR Admin checks staff leave balance': 'leave-management/how-hr-admin-checks-staff-leave-balance.md'    
+    - 'How HR Admin updates leave entitlements': 'leave-management/how-hr-admin-updates-leave-entitlements.md' 
+    - 'How HR Admin configures leave': 'leave-management/how-hr-admin-configures-leave.md'    
 - 4. Recruitment (ATS):
     - 'Recruitment (ATS)': 'recruitment/recruitment.md'
     - 'Vacancies Dashboard': 'recruitment/vacancies-dashboard.md'
