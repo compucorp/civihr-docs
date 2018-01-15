@@ -4,7 +4,7 @@ Advanced configuration checklist for service providers
 -   Add the organisation’s logo to the login screen.
 -   Ensure that scheduled jobs are running.
 -   Setup emails.
--   Customise joining and exiting task lists and timeline, and add any more standard assignments required
+-   Customise joining and exiting task lists and timeline, and add any more standard workflows required
 -   Add custom data fields if required. 
 
 ![image](../img/image10.png)

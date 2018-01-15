@@ -14,7 +14,7 @@ Create interactive pivot table reports and charts within seconds with our drag a
 **3. Tasks and Reminders**
 -------------
 
-CiviHR helps you manage onboarding and exiting staff members using our Tasks and Assignments module. Once you have assigned internal tasks, staff can review due dates, notes and attachments on their Self Service Portal Portal (SSP). You can also send automated emails and schedule tasks for the new joiners to receive when they start.
+CiviHR helps you manage onboarding and exiting staff members using our Tasks and Workflows module. Once you have assigned internal tasks, staff can review due dates, notes and attachments on their Self Service Portal Portal (SSP). You can also send automated emails and schedule tasks for the new joiners to receive when they start.
 
 **4. Leave and Absence**
 -------------
