@@ -71,8 +71,8 @@ pages:
     - 'Qualifications': 'staff/qualifications.md'
     - 'Notes': 'staff/notes.md'
     - 'Change Log': 'staff/change-log.md'
-- 2. Tasks and Assignments:
-    - 'Tasks and Assignments': 'task-and-reminders/tasks-and-assignments.md'
+- 2. Tasks and Workflows:
+    - 'Tasks and Workflows': 'task-and-reminders/tasks-and-workflows.md'
     - 'Schedule and delegate tasks': 'task-and-reminders/schedule-and-delegate-tasks.md'
     - 'Follow up with quick reminders': 'task-and-reminders/follow-up-with-quick-reminders.md'
     - 'Manage joining, exiting, contract renewals': 'task-and-reminders/manage-joining-exiting-contract-renewals.md'
