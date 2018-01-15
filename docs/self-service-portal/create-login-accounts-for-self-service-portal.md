@@ -23,4 +23,4 @@ You can also set up a new self service login by going to the Manage Users page, 
 
 If you have already added a staff member’s data to CiviHR including the email, it is recommended that that same email address should be used to create the self service login. This allows CiviHR to understand that the staff member in your database and the staff member requesting access to the self service portal are one and the same, and prevents duplicates. 
 
-Remember to edit these logins and block the accounts of any staff who leave your organisation. You can add this step as one of your tasks in the exiting assignment in your CiviHR. 
+Remember to edit these logins and block the accounts of any staff who leave your organisation. You can add this step as one of your tasks in the exiting workflow in your CiviHR. 
