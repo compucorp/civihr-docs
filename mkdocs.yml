@@ -94,7 +94,6 @@ pages:
     - 'My Details': 'self-service-portal/my-details.md'
     - 'My Tasks': 'self-service-portal/my-tasks.md'
     - 'My Leave': 'self-service-portal/my-leave.md'
-    - 'My Sickness': 'self-service-portal/my-sickness.md'
     - 'Manager Leave Approval': 'self-service-portal/manager-leave-approval.md'
     - 'HR Resources': 'self-service-portal/hr-resources.md'
     - 'Staff Directory': 'self-service-portal/staff-directory.md'
