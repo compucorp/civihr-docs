@@ -99,7 +99,7 @@ pages:
     - 'Staff Directory': 'self-service-portal/staff-directory.md'
     - 'Vacancies': 'self-service-portal/vacancies.md'
     - 'Report for Administrators': 'self-service-portal/reports-for-administrators.md'
-- User accounts to access CiviHR Self Service Portal
+- User accounts to access CiviHR Self Service Portal:
     - 'User accounts to access CiviHR Self Service Portal': 'user-accounts-to-access-civihr-ssp.md'
     - 'User roles or access permissions': 'user-roles-or-access-permissions.md'
     - 'How HR Admin creates a user account': 'how-hr-admin-creates-a-user-account.md'
