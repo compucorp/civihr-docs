@@ -9,7 +9,7 @@ repo_name: CiviHR Documentation
 repo_url: https://github.com/compucorp/civihr-docs.git
 
 # Copyright
-copyright: 'Copyright &copy; 2017 CiviHR'
+copyright: 'Copyright &copy; 2018 CiviHR'
 
 # Theme directory
 theme_dir: material
@@ -94,13 +94,16 @@ pages:
     - 'My Details': 'self-service-portal/my-details.md'
     - 'My Tasks': 'self-service-portal/my-tasks.md'
     - 'My Leave': 'self-service-portal/my-leave.md'
-    - 'My Sickness': 'self-service-portal/my-sickness.md'
     - 'Manager Leave Approval': 'self-service-portal/manager-leave-approval.md'
     - 'HR Resources': 'self-service-portal/hr-resources.md'
     - 'Staff Directory': 'self-service-portal/staff-directory.md'
     - 'Vacancies': 'self-service-portal/vacancies.md'
-    - 'Create login accounts for Self Service Portal': 'self-service-portal/create-login-accounts-for-self-service-portal.md'
     - 'Report for Administrators': 'self-service-portal/reports-for-administrators.md'
+- User accounts to access CiviHR Self Service Portal
+    - 'User accounts to access CiviHR Self Service Portal': 'user-accounts-to-access-civihr-ssp.md'
+    - 'User roles or access permissions': 'user-roles-or-access-permissions.md'
+    - 'How HR Admin creates a user account': 'how-hr-admin-creates-a-user-account.md'
+    - 'How HR Admin blocks a user account': 'how-hr-admin-blocks-a-user-account.md'
 - Importing staff data:
     - 'Before importing data': 'importing-staff-data/before-importing-data.md'
     - 'Import personal and bank details': 'importing-staff-data/import-personal-and-bank-details.md'
