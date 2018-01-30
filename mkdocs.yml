@@ -100,10 +100,10 @@ pages:
     - 'Vacancies': 'self-service-portal/vacancies.md'
     - 'Report for Administrators': 'self-service-portal/reports-for-administrators.md'
 - User accounts to access CiviHR Self Service Portal:
-    - 'User accounts to access CiviHR Self Service Portal': 'user-accounts-to-access-civihr-ssp.md'
-    - 'User roles or access permissions': 'user-roles-or-access-permissions.md'
-    - 'How HR Admin creates a user account': 'how-hr-admin-creates-a-user-account.md'
-    - 'How HR Admin blocks a user account': 'how-hr-admin-blocks-a-user-account.md'
+    - 'User accounts to access CiviHR Self Service Portal': 'user-accounts-to-access-civihr-ssp/user-accounts-to-access-civihr-ssp.md'
+    - 'User roles or access permissions': 'user-accounts-to-access-civihr-ssp/user-roles-or-access-permissions.md'
+    - 'How HR Admin creates a user account': 'user-accounts-to-access-civihr-ssp/how-hr-admin-creates-a-user-account.md'
+    - 'How HR Admin blocks a user account': 'user-accounts-to-access-civihr-ssp/how-hr-admin-blocks-a-user-account.md'
 - Importing staff data:
     - 'Before importing data': 'importing-staff-data/before-importing-data.md'
     - 'Import personal and bank details': 'importing-staff-data/import-personal-and-bank-details.md'
